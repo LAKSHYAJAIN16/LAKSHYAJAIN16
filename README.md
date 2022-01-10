@@ -17,7 +17,10 @@ Some of my Projects include
    - **Leonidas**, a markdown extension I made using **Javascript**, which you can check out [here](https://github.com/LAKSHYAJAIN16/leonidas)
    - **Kalos.Learning**, a Machine Learning Library I made using **C#**(That's right. Machine Learning WITHOUT Python). You can check it out [here](https://github.com/LAKSHYAJAIN16/Kalos.Learning)
    - **Weilai**, a Card Trading Game/Website I made using **Next.JS**, which you can check out [here](https://github.com/LAKSHYAJAIN16/weilai)
-   - And a bunch of other stuff, including [hate-speech-detection]("https://github.com/LAKSHYAJAIN16/hate-speech-detection), [gender-detection]("https://github.com/LAKSHYAJAIN16/gender-detection), [brumalis - a globalization tool](("https://github.com/LAKSHYAJAIN16/brumalis), and much more!
+   - And a bunch of other stuff, including 
+     -  [hate speech detection](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
+     -  [gender detection](https://github.com/LAKSHYAJAIN16/gender-detection)
+     -  [brumalis : a globalization tool](https://github.com/LAKSHYAJAIN16/brumalis), and much more!
    
 I'm Currently working on **Muzika**, an app which is like the twitter of musicians. I'm currently around 40% done with it.
 That's It. Hope you have a great day :)
