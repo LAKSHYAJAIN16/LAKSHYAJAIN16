@@ -23,5 +23,6 @@ Some of my Projects include
      -  [brumalis : a globalization tool](https://github.com/LAKSHYAJAIN16/brumalis), and much more!
    
 I'm Currently working on **Muzika**, an app which is like the twitter of musicians. I'm currently around 40% done with it.\
-That's It. Keep Dabbin' Ya'll/
+That's It. Keep Dabbin' Ya'll
+<br>
 ![profilePIc](https://avatars.githubusercontent.com/u/81555595?v=4)
