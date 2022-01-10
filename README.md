@@ -1,6 +1,6 @@
-### Hi there👋
-#### My Name is Lakshya Jain
-##### I'm a 13(soon to be 14) year programmer
+## Hi there👋
+### My Name is Lakshya Jain
+#### I'm a 13(soon to be 14) year programmer
 <br>
 I know a bunch of stuff, including
 
