@@ -1,9 +1,9 @@
 ## 👋 hi im lj
-<br>
 **contact** : lakshya16jain[at]gmail[dot]com
 <br>
 **linkedin** : https://www.linkedin.com/in/lakshya-jain-9a66a22a5/
 <br>
+
 
 ### projects
 #### 1.) lowkey kind of cool / recent
@@ -48,7 +48,7 @@
    - [spellbound 2025](https://github.com/LAKSHYAJAIN16/overthinking-simulator)
 
 
-### skills:
+### skills
    - C# (First Programming Language I learnt), Unity Game Engine, ASP.NET (unc web framework)
    - Python, Tensorflow/PyTorch (elementary projects)
    - React, Next.JS, Apollo, Node.JS, Deno, TS, JS, regular web dev bs
@@ -58,3 +58,5 @@
    - Basics of Docker, GCP, and AWS
    
  ![yes](https://img.shields.io/badge/rizz-lord-blue)
+ <br>
+[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAKSHYAJAIN16)](https://github.com/LAKSHYAJAIN16/github-readme-stats)
