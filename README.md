@@ -1,5 +1,4 @@
 ## 👋 hi im lj
-also known as the ![yes](https://img.shields.io/badge/rizz-lord-blue)
 <br>
 **contact** : lakshya16jain[at]gmail[dot]com
 <br>
@@ -58,3 +57,4 @@ also known as the ![yes](https://img.shields.io/badge/rizz-lord-blue)
    - Firebase, FaunaDB, MongoDB, GraphQL, elementary SQL (who even uses that these days though)
    - Basics of Docker, GCP, and AWS
    
+ ![yes](https://img.shields.io/badge/rizz-lord-blue)
