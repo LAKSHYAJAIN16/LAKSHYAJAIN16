@@ -1,16 +1,19 @@
 ## hi im lj
-contact : lakshya16jain[at]gmail[dot]com
+**contact** : lakshya16jain[at]gmail[dot]com
 <br>
-linkedin : https://www.linkedin.com/in/lakshya-jain-9a66a22a5/
+**linkedin** : https://www.linkedin.com/in/lakshya-jain-9a66a22a5/
 <br>
 
 ### projects
-#### 1.) lowkey kind of cool / recent and maintained 
-   - **miss-americana** : free spotify alternative. no ads, no torrents, totally decentralized + serverless. built using tauri, react, tailwindCSS, rust.
+#### 1.) lowkey kind of cool / recent
+   - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized + serverless. built using tauri, react, tailwindCSS, rust.
    - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, GPT api, k-means, other AI bs.
    - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning), a barebones machine Learning Library I made using **C#**.
    - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : a card trading game/website. built using firebase, next.js.
+   - [**ludus**](https://github.com/LAKSHYAJAIN16/ludus) : 2000s facebook for high schoolers. built using faunaDB, next.js, firebase, websockets, etc.
+   - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
+     
 #### 2.) old / internal tooling / not deployed rn
    -  [hate speech detection for social media app](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
    -  [globalization library for JS since the existing ones sucked](https://github.com/LAKSHYAJAIN16/brumalis)
