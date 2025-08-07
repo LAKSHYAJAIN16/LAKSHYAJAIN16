@@ -59,3 +59,5 @@
    
  ![yes](https://img.shields.io/badge/rizz-lord-blue)
  <br>
+ ![Lakshya](https://github-readme-stats.vercel.app/api?username=LAKSHYAJAIN16&hide=contribs,stars)
+
