@@ -1,5 +1,5 @@
-## hi im lj
-![yes](https://img.shields.io/badge/rizz-lord-blue)
+## 👋 hi im lj
+also known as the ![yes](https://img.shields.io/badge/rizz-lord-blue)
 <br>
 **contact** : lakshya16jain[at]gmail[dot]com
 <br>
