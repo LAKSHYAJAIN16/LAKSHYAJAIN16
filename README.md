@@ -59,4 +59,3 @@
    
  ![yes](https://img.shields.io/badge/rizz-lord-blue)
  <br>
-[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAKSHYAJAIN16)](https://github.com/LAKSHYAJAIN16/github-readme-stats)
