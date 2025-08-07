@@ -9,11 +9,12 @@
 ### 1.) lowkey kind of cool / recent
    - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized + serverless. built using tauri, react, tailwindCSS, rust.
    - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, GPT api, k-means, other AI bs.
-   - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc etc.
+   - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning), a barebones machine Learning Library I made using **C#**.
    - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : a card trading game/website. built using firebase, next.js.
    - [**ludus**](https://github.com/LAKSHYAJAIN16/ludus) : 2000s facebook for high schoolers. built using faunaDB, next.js, firebase, websockets, etc.
    - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
+   - [**dailysat**](https://github.com/Hemit99123/dailysat) : was cto for a while, left cuz it was kind of boring. built their platform w/mongodb, node.js, tailwind, etc.
      
 ### 2.) old / internal tooling / not deployed rn
    -  [hate speech detection for social media app](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
@@ -46,7 +47,6 @@
    - [hpe codewars ](https://github.com/LAKSHYAJAIN16/CleverCalorie)
    - [nasa spaceapps ](https://github.com/LAKSHYAJAIN16/NASA_Space_Web)
    - [spellbound 2025](https://github.com/LAKSHYAJAIN16/overthinking-simulator)
-
 
 ## skills
    - C# (First Programming Language I learnt), Unity Game Engine, ASP.NET (unc web framework)
