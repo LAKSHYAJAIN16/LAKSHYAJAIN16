@@ -6,7 +6,7 @@
 
 
 ## projects
-### 1.) lowkey kind of cool / recent
+### 1.) recent / updated
    - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized + serverless. built using tauri, react, tailwindCSS, rust.
    - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, GPT api, k-means, other AI bs.
    - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc.
@@ -16,7 +16,7 @@
    - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
    - [**dailysat**](https://github.com/Hemit99123/dailysat) : was cto for a while, left cuz it was kind of boring. built their platform w/mongodb, node.js, tailwind, etc.
      
-### 2.) old / internal tooling / not deployed rn
+### 2.) old / not deployed
    -  [hate speech detection for social media app](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
    -  [globalization library for JS since the existing ones sucked](https://github.com/LAKSHYAJAIN16/brumalis)
    -  [markdown with colors + css](https://github.com/LAKSHYAJAIN16/leonidas)
@@ -31,7 +31,7 @@
    -  [gossip website?](https://github.com/LAKSHYAJAIN16/themongerer)
    -  [audio visualizer](https://github.com/LAKSHYAJAIN16/miss-americana)
    -  [taylor swift song ai generator](https://github.com/LAKSHYAJAIN16/Taylor-Swift-Lyrics)
-   -  .... and [other random stuff idk bruh](https://github.com/LAKSHYAJAIN16/coding-experiments)
+   -  .... and [other random stuff](https://github.com/LAKSHYAJAIN16/coding-experiments)
 
 ### 3.) video games i developed
    - [Eureka](https://lakshyaisagod.itch.io/eureka)
@@ -56,8 +56,7 @@
    - Tauri App Development (electron is an opp), React Native, Expo
    - Firebase, FaunaDB, MongoDB, GraphQL, elementary SQL (who even uses that these days though)
    - Basics of Docker, GCP, and AWS
-   
- ![yes](https://img.shields.io/badge/rizz-lord-blue)
+
  <br>
 ![hi!](https://spotify-github-profile.kittinanx.com/api/view?uid=9pwigye3d006ywh8gqksdhwu6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
