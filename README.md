@@ -7,8 +7,9 @@
 
 ## projects
 ### 1.) recent / updated
-   - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized + serverless. built using tauri, react, tailwindCSS, rust.
-   - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, GPT api, k-means, other AI bs.
+   - [**28bot**](https://github.com/LAKSHYAJAIN16/28bot) : bot for the card game 28 that I built, from scratch! contains an ISMCTS implementation, custom belief network and RL environment.
+   - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized and serverless. built using tauri, react, tailwindCSS, rust.
+   - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, k-means clustering, etc.
    - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning), a barebones machine Learning Library I made using **C#**.
    - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : a card trading game/website. built using firebase, next.js.
