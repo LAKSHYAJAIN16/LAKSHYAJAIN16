@@ -1,4 +1,4 @@
-## 👋 hi im lj
+## 👋 Hi, I'm Lakshya!
 **contact** : lakshya16jain[at]gmail[dot]com
 <br>
 **linkedin** : https://www.linkedin.com/in/lakshya-jain-9a66a22a5/
