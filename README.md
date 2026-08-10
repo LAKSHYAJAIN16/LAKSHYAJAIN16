@@ -1,22 +1,20 @@
-## 👋 hi, i'm lakshya!
-**contact** : lakshya16jain[at]gmail[dot]com
-<br>
-**linkedin** : https://www.linkedin.com/in/lakshya-jain-9a66a22a5/
+## 👋 Hi, I'm Lakshya (pronounced Luck-Shaye)!
+**contact** : lakshya16jain[at]gmail[dot]com OR l4jain[at]uwaterloo[dot]ca
 <br>
 
 
-## projects
-### 1.) recent / kind of cool
-   - [**28bot**](https://github.com/LAKSHYAJAIN16/28bot) : bot for the card game 28 that I built, from scratch! contains an ISMCTS implementation, custom belief network and RL environment. trying to get it published
-   - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : free spotify alternative. no ads, no torrents, totally decentralized and serverless. built using tauri, react, tailwindCSS, rust. i also have a [pitch](https://www.linkedin.com/in/lakshya-jain-9a66a22a5/overlay/projects/1313956499/multiple-media-viewer/?profileId=ACoAAEmbVQ4BXYNCaN5nNNhMwMJu0YvC-Huci_s&treasuryMediaId=1752088326207) lol 
-   - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : ai optimization for public transit networks. build using next.js, react native, tailwindcss, k-means clustering, etc.
-   - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : mental health support website. built using next.JS, webRTC, firebase, etc.
-   - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning), a barebones machine Learning Library I made using **C#**.
-   - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : a card trading game/website. built using firebase, next.js.
+## Projects
+### 1.) Recent / Kind of Cool
+   - [**28bot**](https://github.com/LAKSHYAJAIN16/28bot) : bot for the card game 28 that I built, from scratch! contains an ISMCTS implementation, custom belief network and RL environment. Published.
+   - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : Free spotify alternative. no ads, no torrents, totally decentralized and serverless. built using tauri, react, tailwindCSS, rust.
+   - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : AI optimization for public transit networks. built using next.js, react native, tailwindcss, k-means clustering, etc.
+   - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : Mental health support website. built using next.JS, webRTC, firebase, etc.
+   - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning) : A barebones machine Learning Library I made using **C#**.
+   - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : A card trading game/website. built using firebase, next.js.
    - [**ludus**](https://github.com/LAKSHYAJAIN16/ludus) : 2000s facebook for high schoolers. built using faunaDB, next.js, firebase, websockets, etc.
-   - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
-   - [**dailysat**](https://github.com/Hemit99123/dailysat) : was cto for a while, left cuz it was kind of boring. built their platform w/mongodb, node.js, tailwind, etc.
-   - [**genetic experiment**](https://github.com/LAKSHYAJAIN16/genetic-experiments) : simulating survival of the fittest in Unity. inspired by Sebastian Lague
+   - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : Decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
+   - [**dailysat**](https://github.com/Hemit99123/dailysat) : built their platform w/mongodb, node.js, tailwind, etc.
+   - [**genetic experiment**](https://github.com/LAKSHYAJAIN16/genetic-experiments) : Simulating survival of the fittest in Unity. inspired by Sebastian Lague
      
 ### 2.) old / boring
    -  [hate speech detection for social media app](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
