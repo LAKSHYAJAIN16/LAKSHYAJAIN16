@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Lakshya (pronounced Luck-Shaye)!
-**contact** : lakshya16jain[at]gmail[dot]com OR l4jain[at]uwaterloo[dot]ca
+**contact** : l4jain[at]uwaterloo[dot]ca
 <br>
 
 
