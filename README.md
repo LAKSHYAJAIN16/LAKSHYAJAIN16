@@ -17,18 +17,11 @@
    - [**genetic experiment**](https://github.com/LAKSHYAJAIN16/genetic-experiments) : Simulating survival of the fittest in Unity. inspired by Sebastian Lague
      
 ### 2.) old / boring
-   -  [hate speech detection for social media app](https://github.com/LAKSHYAJAIN16/hate-speech-detection)
    -  [globalization library for JS since the existing ones sucked](https://github.com/LAKSHYAJAIN16/brumalis). also an [npm package](https://www.npmjs.com/package/brumalis)
    -  [markdown with colors + css](https://github.com/LAKSHYAJAIN16/leonidas). also an [npm package](https://www.npmjs.com/package/leonidas?activeTab=readme)
-   -  [sorting algorithms demo](https://github.com/LAKSHYAJAIN16/sorting)
    -  [sql but better](https://github.com/LAKSHYAJAIN16/epsql)
-   -  [video calling app, using webRTC](https://github.com/LAKSHYAJAIN16/apricus)
-   -  [medium ripoff](https://github.com/LAKSHYAJAIN16/fulminata-frontend)
    -  [google analytics but better + free](https://github.com/LAKSHYAJAIN16/kronos)
    -  [programming language based on harry potter](https://github.com/LAKSHYAJAIN16/expelliarmus)
-   -  [musician networking site](https://github.com/LAKSHYAJAIN16/muzika-frontend)
-   -  [dank memer hack](https://github.com/LAKSHYAJAIN16/mmr)
-   -  [gossip website?](https://github.com/LAKSHYAJAIN16/themongerer)
    -  [audio visualizer](https://github.com/LAKSHYAJAIN16/miss-americana)
    -  .... and [other random stuff](https://github.com/LAKSHYAJAIN16/coding-experiments)
 
@@ -63,9 +56,5 @@
    - React, Next.JS, Apollo, Node.JS, Deno, TS, JS, regular web dev bs
    - TailwindCSS, regular CSS, other styling frameworks like bootstrap, framer motion
    - Tauri App Development (electron is an opp), React Native, Expo
-   - Firebase, FaunaDB, MongoDB, GraphQL, elementary SQL (who even uses that these days though)
-   - Basics of Docker, GCP, and AWS
-
-## last song I listened to:
-![if you're seeing this, something's wrong](https://spotify-github-profile.kittinanx.com/api/view?uid=9pwigye3d006ywh8gqksdhwu6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+   - Firebase, FaunaDB, MongoDB, GraphQL
 
