@@ -11,15 +11,14 @@
    - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : Mental health support website. built using next.JS, webRTC, firebase, etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning) : A barebones machine Learning Library I made using **C#**.
    - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : A card trading game/website. built using firebase, next.js.
-   - [**ludus**](https://github.com/LAKSHYAJAIN16/ludus) : 2000s facebook for high schoolers. built using faunaDB, next.js, firebase, websockets, etc.
    - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : Decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
    - [**dailysat**](https://github.com/Hemit99123/dailysat) : built their platform w/mongodb, node.js, tailwind, etc.
-   - [**genetic experiment**](https://github.com/LAKSHYAJAIN16/genetic-experiments) : Simulating survival of the fittest in Unity. inspired by Sebastian Lague
-     
+   - [**NGINX C# Adapter**]
+   - [**Mafiasim w/AI Agents**]
+   - [**Other random shit**]
 ### 2.) old / boring
    -  [globalization library for JS since the existing ones sucked](https://github.com/LAKSHYAJAIN16/brumalis). also an [npm package](https://www.npmjs.com/package/brumalis)
    -  [markdown with colors + css](https://github.com/LAKSHYAJAIN16/leonidas). also an [npm package](https://www.npmjs.com/package/leonidas?activeTab=readme)
-   -  [sql but better](https://github.com/LAKSHYAJAIN16/epsql)
    -  [google analytics but better + free](https://github.com/LAKSHYAJAIN16/kronos)
    -  [programming language based on harry potter](https://github.com/LAKSHYAJAIN16/expelliarmus)
    -  [audio visualizer](https://github.com/LAKSHYAJAIN16/miss-americana)
