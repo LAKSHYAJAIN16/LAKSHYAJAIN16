@@ -8,7 +8,6 @@
    - [**28bot**](https://github.com/LAKSHYAJAIN16/28bot) : bot for the card game 28 that I built, from scratch! contains an ISMCTS implementation, custom belief network and RL environment. Published.
    - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : Free spotify alternative. no ads, no torrents, totally decentralized and serverless. built using tauri, react, tailwindCSS, rust.
    - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : AI optimization for public transit networks. built using next.js, react native, tailwindcss, k-means clustering, etc.
-   - [**itsalright.in**](https://github.com/LAKSHYAJAIN16/itsalright) : Mental health support website. built using next.JS, webRTC, firebase, etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning) : A barebones machine Learning Library I made using **C#**.
    - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : A card trading game/website. built using firebase, next.js.
    - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : Decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
@@ -20,8 +19,6 @@
    -  [globalization library for JS since the existing ones sucked](https://github.com/LAKSHYAJAIN16/brumalis). also an [npm package](https://www.npmjs.com/package/brumalis)
    -  [markdown with colors + css](https://github.com/LAKSHYAJAIN16/leonidas). also an [npm package](https://www.npmjs.com/package/leonidas?activeTab=readme)
    -  [google analytics but better + free](https://github.com/LAKSHYAJAIN16/kronos)
-   -  [programming language based on harry potter](https://github.com/LAKSHYAJAIN16/expelliarmus)
-   -  [audio visualizer](https://github.com/LAKSHYAJAIN16/miss-americana)
    -  .... and [other random stuff](https://github.com/LAKSHYAJAIN16/coding-experiments)
 
 ### 3.) video games i developed
