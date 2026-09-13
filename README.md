@@ -7,11 +7,8 @@
 ### 1.) Recent / Kind of Cool
    - [**28bot**](https://github.com/LAKSHYAJAIN16/28bot) : bot for the card game 28 that I built, from scratch! contains an ISMCTS implementation, custom belief network and RL environment. Published.
    - [**miss-americana**](https://github.com/LAKSHYAJAIN16/miss-americana-ui) : Free spotify alternative. no ads, no torrents, totally decentralized and serverless. built using tauri, react, tailwindCSS, rust.
-   - [**route.ai**](https://github.com/LAKSHYAJAIN16/route-ai) : AI optimization for public transit networks. built using next.js, react native, tailwindcss, k-means clustering, etc.
    - [**kalos.learning**](https://github.com/LAKSHYAJAIN16/Kalos.Learning) : A barebones machine Learning Library I made using **C#**.
-   - [**weilai**](https://github.com/LAKSHYAJAIN16/weilai) : A card trading game/website. built using firebase, next.js.
    - [**raven**](https://github.com/LAKSHYAJAIN16/raven) : Decentralized social media with more privacy. built using react.js, openAI api, vector database, etc.
-   - [**dailysat**](https://github.com/Hemit99123/dailysat) : built their platform w/mongodb, node.js, tailwind, etc.
    - [**NGINX C# Adapter**]
    - [**Mafiasim w/AI Agents**]
    - [**Other random shit**]
